@@ -40,32 +40,30 @@ body {
     }
 /body
 
-
-
-	#skills{
-		color: white;
-	}
-	#hobbies{
-		color: white;
-	}
-	#interest{
-		color: white;
-	}
-	#contents{
-		color: white;
-	}
-	#marikris{
+body{
+	background: rgb(204,234,231);
+	text-color: black;
 		
-	}
-	#family{
-		color: white;
-		
-		body{
-			background: rgb(204,234,231);
-			text-color: black;
+
+		#skills{
+		color: black;
 		}
+		#hobbies{
+		color: black;
+		}
+		#interest{
+		color: black;
+		}
+		#contents{
+		color: black;
+		}
+		#marikris{
 		
-		
+		}
+		#family{
+		color: black;
+		}
+	}
 		
 		
 		
