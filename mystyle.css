@@ -60,7 +60,9 @@ body {
 	#family{
 		color: white;
 		
-		
+		body{
+			background: rgb(204,234,231);
+		}
 		
 		
 		
