@@ -2,10 +2,10 @@ body {
 	background: rgb(204,234,231);
 	text-align: center;
       background-size: cover;
-      color: black;
+      color: white;
     }
     a {
-      color: black;
+      color: white;
     }
     h1 {
       font-size: 70px;
