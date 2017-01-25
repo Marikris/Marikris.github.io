@@ -33,6 +33,7 @@ body {
         font-size: 36px;
         padding: 5px;
       }
+
       li {
         padding: 5px;
         display: block;
@@ -44,7 +45,7 @@ body {
 /body
 
 body{
-	background: rgb(204,234,231);
+	background: rgb (204,234,231);
 	color: black;
 }
 		p{
