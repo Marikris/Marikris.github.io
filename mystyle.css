@@ -2,7 +2,7 @@ body {
 	background: rgb(204,234,231);
 	text-align: center;
       background-size: cover;
-      color: rgb(0,150,136);
+      color: black;
     }
     a {
       color: white;
@@ -52,7 +52,7 @@ body{
 		color: black;
 		}
 		header{
-		color: black;	
+		color: rgb(0,150,136);	
 		}
 		#skills{
 		color: black;
