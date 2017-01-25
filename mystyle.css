@@ -45,7 +45,7 @@ body {
 /body
 
 body{
-	background: rgb (204,234,231);
+	background: rgb(204,234,231);
 	color: black;
 }
 		p{
@@ -73,7 +73,9 @@ body{
 		color: black;
 		}
 	
-		
+		body{
+		background: rgb(204,234,231);	
+	    }
 		
 		
 		
