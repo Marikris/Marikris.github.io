@@ -15,11 +15,11 @@ body {
       border: 7px solid white;
       border-radius: 20px;
     }
-    #links {
+    ul {
       padding: 10px;
       background: rgba(0,0,0,0.5);
     }
-    #web {
+    li {
       display: inline;
       padding: 0px 10px 0px 10px;
     }
@@ -34,7 +34,7 @@ body {
         padding: 5px;
       }
 
-      #web {
+      li {
         padding: 5px;
         display: block;
       } 
