@@ -60,13 +60,7 @@ body{
 		#hobbies{
 		color: black;
 		}
-	    #hobby{
-		color: black;
-	    }
 		#interest{
-		color: black;
-		}
-	    #interests{
 		color: black;
 		}
 		#contents{
@@ -76,9 +70,6 @@ body{
 		color: rgb(0,150,136);
 		}
 		#family{
-		color: black;
-		}
-	    #families{
 		color: black;
 		}
 	
@@ -91,7 +82,14 @@ body{
 			
 	    }
 		
-		
+		#netflix{
+	   color: black;
+	    }
+	    
+	    
+	    #youtube{
+	   color: black;
+	    }
 		
 	
 	
